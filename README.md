@@ -1,9 +1,23 @@
 # Sales Forecasting Model Training
 
-### Description:
+Welcome to the Sales Forecasting Model Training project! This project aims to train a sales forecasting model using time series data sourced from Kaggle. The implementation details can be found in the Jupyter Notebook named `Sales Forecasting.ipynb`.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Description](#description)
+- [Steps](#steps)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
+- [License](#license)
+
+## Introduction
+This project involves analyzing a time series dataset to predict future sales. It includes data preparation, exploratory data analysis, feature engineering, model selection, training, evaluation, and deployment.
+
+## Description
 In this project, we aim to train a sales forecasting model using time series data sourced from Kaggle. We'll analyze the dataset, perform necessary data preprocessing, explore patterns and trends, and train a forecasting model to predict future sales.
 
-### Steps:
+## Steps
 1. **Data Preparation**: Load the dataset into a Pandas DataFrame, clean the data, and preprocess it.
 2. **Exploratory Data Analysis (EDA)**: Visualize the data to understand its patterns and trends.
 3. **Feature Engineering**: Extract relevant features from the dataset to improve the model's performance.
@@ -14,5 +28,44 @@ In this project, we aim to train a sales forecasting model using time series dat
 
 For detailed implementation, refer to the Jupyter Notebook provided.
 
-### Contact:
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/syed-muqtasid-ali-91a0a623a/) for any questions or collaborations.
+## Installation
+To get started with the Sales Forecasting Model Training project, follow these steps:
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/sales-forecasting-model-training.git
+    ```
+
+2. Navigate to the project directory:
+    ```sh
+    cd sales-forecasting-model-training
+    ```
+
+3. Install the required dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+## Usage
+To use the Sales Forecasting Model Training notebook, follow these steps:
+
+1. Ensure you have the necessary dependencies installed (see Installation section).
+
+2. Open the Jupyter Notebook:
+    ```sh
+    jupyter notebook "Sales Forecasting.ipynb"
+    ```
+
+3. Follow the instructions within the notebook to load data, perform analysis, and train the model.
+
+## Contact
+For any questions or inquiries, please feel free to contact me via LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muqtasid-ali-91a0a623a/)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Happy Forecasting!
